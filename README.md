@@ -8,5 +8,3 @@
 <h4 align="center"> I am passsionate about Data Science and Programming.</h4>
 
 <h5 align="center"> <a href="https://adinarayanreloaded.github.io/Adiwebsite/"> Portfolio Website </h5>
-
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
