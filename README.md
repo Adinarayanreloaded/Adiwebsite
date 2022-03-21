@@ -2,6 +2,6 @@
 
 <h3 align="center">Currently pursuing BE CSE at Chandigarh University and BS PDS at IIT Madras</h3>
 
-<h4 align="center"> I am passsionate about Data Science and Programming.</h4>
+<h4 align="center"> I am passsionate about Data Science and Programming. </h4>
 
 <h5 align="center"> <a href="https://adinarayanreloaded.github.io/Adiwebsite/"> Portfolio Website </h5>
