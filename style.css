@@ -212,9 +212,7 @@ section .title::after{
 .about .title{
     font-size: 40p;
 }
-.about .title::after{
-    content: "Who am I";
-}
+
 .about .about-content .left{
     width: 45%;
 }
@@ -268,7 +266,6 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: rgb(13, 185, 238);
-    content: "Previous work";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -388,9 +385,7 @@ section .title::after{
 }
 
 /* teams section styling */
-.teams .title::after{
-    content: "who with me";
-}
+
 .teams .carousel .card{
     background: #222;
     border-radius: 6px;
@@ -450,9 +445,7 @@ section .title::after{
     background: Blue!important;
 }
 /* contact section styling */
-.contact .title::after{
-    content: "Get in touch";
-}
+
 .contact .contact-content .column{
     width: calc(50% - 30px);
 }
